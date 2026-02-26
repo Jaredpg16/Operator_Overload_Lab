@@ -1,3 +1,8 @@
+/* Name: Jared Peralta
+ * Date: Feb 26, 2026
+ * Purpose: Operator Overloading */
+
+
 #include <iostream>
 #include "BankAccount.h"
 #include <vector>
